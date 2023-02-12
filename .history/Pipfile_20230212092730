@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+Werkzeug = "==1.0.1"
+autopep8 = "*"
+flake8 = "*"
+
+[packages]
+Django = "==3.2"
+
