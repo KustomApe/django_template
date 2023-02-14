@@ -16,7 +16,6 @@ django-extensions = "*"
 django-debug-toolbar = "*"
 django-configurations = "*"
 django-environ = "*"
-django-healthchecks = "*"
 
 [scripts]
 start = "python main.py runserver"

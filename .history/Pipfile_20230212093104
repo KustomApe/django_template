@@ -9,5 +9,10 @@ autopep8 = "*"
 flake8 = "*"
 
 [packages]
-Django = "==3.2"
-
+Django = "==3.*"
+psycopg2-binary = "*"
+gunicorn = "*"
+django-extensions = "*"
+django-debug-toolbar = "*"
+django-configurations = "*"
+django-environ = "*"
